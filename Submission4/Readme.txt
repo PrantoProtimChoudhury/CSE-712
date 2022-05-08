@@ -11,7 +11,11 @@ Conference Name:The 21st International Conference on Artificial Intelligence and
 
 Conference URL:https://icaisc.eu
 
-Conference Submission Date: May 10, 2022
+Slide Link: https://docs.google.com/presentation/d/1YJW5KXXQC24o_MgBu-j8cVF5N2VCZ6lOirvkK33kFdc/edit?usp=sharing
+
+Youtube Link: https://youtu.be/mzWq0TXVt9
+
+Conference Submission Date: May 05, 2022
 
 Group Number: 11
 
