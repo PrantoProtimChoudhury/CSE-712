@@ -6,11 +6,11 @@ YouTube Videos Completed:
 Playlist: https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL 
 Github Repo link: https://github.com/PrantoProtimChoudhury/Natural-Language-Processing-With-Python-and-NLTK
 
-3."Natural Language Processing with TensorFlow 2" offered by "freeCodeCamp.org"
+3. "Natural Language Processing with TensorFlow 2" offered by "freeCodeCamp.org"
 Tutorial: https://www.youtube.com/watch?v=B2q5cRJvqI8 
 Github Repo link: https://github.com/PrantoProtimChoudhury/Natural-Language-Processing-with-TensorFlow-2
 
-4.Zero to Hero for Natural Language Processing using TensorFlow" offered by "TensorFlow"
+4. Zero to Hero for Natural Language Processing using TensorFlow" offered by "TensorFlow"
 Playlist: https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S 
 Github Repo link: https://github.com/PrantoProtimChoudhury/Natural-Language-Processing-NLP-Zero-to-Hero
 
@@ -29,7 +29,7 @@ Course Link: https://www.datacamp.com/courses/time-series-analysis-in-python
 Certificate:https://www.datacamp.com/statement-of-accomplishment/course/8e32475da576ac98bcfae38b0dfed56538e6d541
 Email: pranto.protim.choudhury@g.bracu.ac.bd
 
-8.5 course Specialization Track: Importing & Cleaning Data with Python Track 
+8. 5 course Specialization Track: Importing & Cleaning Data with Python Track 
 Course Link: https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-python?version=2 
 Certificate: https://www.datacamp.com/statement-of-accomplishment/track/d68128269ab579c23d64e9faed2a76a00d448fd0
 Email: pranto.protim.choudhury@g.bracu.ac.bd
